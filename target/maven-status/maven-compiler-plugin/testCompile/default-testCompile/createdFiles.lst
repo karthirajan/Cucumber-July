@@ -1,0 +1,7 @@
+com\flipkart\stepdefinition\TestRunner.class
+com\flipkart\objectrepository\TvPurchasePage.class
+com\flipkart\stepdefinition\TvPurchaseSteps.class
+com\flipkart\stepdefinition\Hooks.class
+com\flipkart\stepdefinition\MobilePurchaseSteps.class
+com\flipkart\objectrepository\MobilePurchasePage.class
+com\flipkart\resources\Commonactions.class
